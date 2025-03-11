@@ -1,9 +1,9 @@
-###技术栈
+### 技术栈
 python + pytest + requests + allure + git + jenkins 
-###实现功能
+### 实现功能
 基于requests实现的接口自动化框架,可根据项目组需求进行二次开发；
 可集成持续集成工具jenkins、github等实现自动化构建
-###设计模式
+### 设计模式
 - POM(page object model)
 ### 项目结构
 - \testcase 测试用例
