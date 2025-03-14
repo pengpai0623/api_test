@@ -27,3 +27,6 @@
 [2025-03-14 22:26:45,102] [DEBUG] [test_1] 生成接口依赖数据request.session.res:10
 [2025-03-14 22:26:45,106] [CRITICAL] [test_1] 断言接口依赖数据request.session.res的结果:True
 [2025-03-14 22:26:45,122] [DEBUG] [test_3] 断言func函数异常类型是:<class 'ValueError'>
+[2025-03-14 22:27:20,883] [DEBUG] [test_1] 生成接口依赖数据request.session.res:10
+[2025-03-14 22:27:20,885] [CRITICAL] [test_1] 断言接口依赖数据request.session.res的结果:True
+[2025-03-14 22:27:20,898] [DEBUG] [test_3] 断言func函数异常类型是:<class 'ValueError'>
