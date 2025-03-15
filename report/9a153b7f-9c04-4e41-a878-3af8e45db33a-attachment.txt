@@ -1,0 +1,1 @@
+DEBUG    api_Test:test_normal.py:37 断言func函数异常类型是:<class 'ValueError'>

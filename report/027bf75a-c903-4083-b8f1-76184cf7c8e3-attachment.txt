@@ -1,0 +1,2 @@
+DEBUG    api_Test:test_normal.py:21 生成接口依赖数据request.session.res:10
+CRITICAL api_Test:test_normal.py:23 断言接口依赖数据request.session.res的结果:True
